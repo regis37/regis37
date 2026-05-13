@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Regis Tsafack
 
 🎓 Electrical Engineering and Information Technology student at **TH Nürnberg**
-💼 Incoming Werkstudent at **Siemens Healthineers** — Platform & System Engineering
+//💼 Incoming Werkstudent at **Siemens Healthineers** — Platform & System Engineering
 🌍 Based in Nürnberg, Germany
 
 ---
